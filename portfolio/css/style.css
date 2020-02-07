@@ -1,0 +1,9 @@
+/* import fonts from fonts.css*/
+@import url(./fonts.css)
+
+/*  start navigation*/
+.header_area.main-menu.navbar.navbar-brand
+{
+    padding: 5 2rem 0 5rem;
+}
+/*end naviogation*/
